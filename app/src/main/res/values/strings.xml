@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerViewExample</string>
+    <string name="txt_placeholder">NAME_OF_FILM</string>
+</resources>
